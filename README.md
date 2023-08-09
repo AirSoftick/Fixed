@@ -28,5 +28,4 @@ GHJDTHRF CDZPB
 
 Преобразуется в:
 
-plaintext
 Проверка связи
