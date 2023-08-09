@@ -12,6 +12,8 @@
 
 [AirSoftick]
 
+![fix](https://github.com/AirSoftick/Fixed/assets/141844045/41c8c0de-67bc-418e-8c5c-e19db9969b08)
+
 ## Примеры
 
 Режим "FixCaps"
