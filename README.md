@@ -14,21 +14,16 @@
 
 ![fix](https://github.com/AirSoftick/Fixed/assets/141844045/41c8c0de-67bc-418e-8c5c-e19db9969b08)
 
-## Примеры
+#Режим "FixCaps"
 
-Режим "FixCaps"
-
-plaintext
-ВЫ ЗАГОЛОВОК СВОЕГО ТЕКСТА. ЭТО ВЫГЛЯДИТ НЕПРАВИЛЬНО.
+ВОТ ИЗ ЭТОГО, ОН ДЕЛАЕТ ЭТО.
 
 Преобразуется в:
 
-plaintext
-Вы заголовок своего текста. Это выглядит неправильно.
+Вот из этого, он делает это.
 
-### Режим "FixTranslate"
+# Режим "FixTranslate"
 
-plaintext
 GHJDTHRF CDZPB
 
 Преобразуется в:
